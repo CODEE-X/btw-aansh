@@ -2,7 +2,7 @@
 <h1 align="center">Hy! 👋, I'm Ankit Singh</h1>
 <h3 align="center">**Building the Web, One Line of Code at a Time**</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-rajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-rajbhar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CODEE-X&label=Profile%20views&color=0e75b6&style=flat" alt="CODEE-X" /> </p>
 <img align="right" width=400 alt="coding-gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
@@ -29,8 +29,8 @@
 
  ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btw-aansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="btw-aansh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btw-aansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="CODEE-X" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btw-aansh&theme=dark&show_icons=true&locale=en" alt="btw-aansh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btw-aansh&theme=dark&show_icons=true&locale=en" alt="CODEE-X" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btw-aansh&theme=dark&" alt="btw-aansh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btw-aansh&theme=dark&" alt="CODEE-X" /></p>
