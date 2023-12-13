@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://btw-aansh.io)
 <h1 align="center">Hy! 👋, I'm Ankit Kumar</h1>
-<h3 align="center">*“If You Think Math is Hard Try Web Design.”</h3>
+<h3 align="center">**If You Think Math is Hard Try Web Design.**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CODEE-X&label=Profile%20views&color=0e75b6&style=flat" alt="CODEE-X" /> </p>
 <img align="right" width=400 alt="coding-gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
