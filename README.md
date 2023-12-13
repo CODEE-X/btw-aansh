@@ -29,8 +29,8 @@
 
  ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btw-aansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="CODEE-X" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CODEE-X&theme=dark&show_icons=true&locale=en&layout=compact" alt="CODEE-X" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btw-aansh&theme=dark&show_icons=true&locale=en" alt="CODEE-X" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CODEE-X&theme=dark&show_icons=true&locale=en" alt="CODEE-X" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btw-aansh&theme=dark&" alt="CODEE-X" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CODEE-X&theme=dark&" alt="CODEE-X" /></p>
