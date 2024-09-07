@@ -17,7 +17,7 @@
 <a href="https://twitter.com/iankit2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btw-aansh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="btw-aansh" height="30" width="40" /></a>
 <a href="https://meta.stackexchange.com/users/1422936/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="btw-aansh" height="30" width="40" /></a>
-<a href="https://instagram.com/btw_aansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw-aansh" height="30" width="40" />
+<a href="https://instagram.com/beinganxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw-aansh" height="30" width="40" />
 
 </a>
 </p>
