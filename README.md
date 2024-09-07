@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, CSS, JS, React & Java**
 
-- 📫 How to reach me **0126it221019@oriental.ac.in**
+- 📫 How to reach me **beinganxh@gmail.com**
 
 
 <h3 align="left">Socials :</h3>
