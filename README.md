@@ -1,8 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://beinganxh.io)
+[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://devndesk.io)
 <h1 align="center">Hy! 👋, I'm Ankit Kumar</h1>
 <h3 align="center">**If You Think Math is Hard Try Web Design.**</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CODEE-X&label=Profile%20views&color=0e75b6&style=flat" alt="CODEE-X" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devndesk&label=Profile%20views&color=0e75b6&style=flat" alt="devndesk" /> </p>
 <img align="right" width=400 alt="coding-gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
@@ -14,10 +14,10 @@
 
 <h3 align="left">Socials :</h3>
 <p align="left">
-<a href="https://twitter.com/iankit2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btw-aansh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="btw-aansh" height="30" width="40" /></a>
-<a href="https://meta.stackexchange.com/users/1422936/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="btw-aansh" height="30" width="40" /></a>
-<a href="https://instagram.com/beinganxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw-aansh" height="30" width="40" />
+<a href="https://twitter.com/iankit2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devndesk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devndesk" height="30" width="40" /></a>
+<a href="https://meta.stackexchange.com/users/1422936/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devndesk" height="30" width="40" /></a>
+<a href="https://instagram.com/beinganxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/devndesk/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devndesk" height="30" width="40" />
 
 </a>
 </p>
