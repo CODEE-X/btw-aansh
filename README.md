@@ -29,8 +29,8 @@
 
  ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beinganxh&theme=dark&show_icons=true&locale=en&layout=compact" alt="beinganxh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devndesk&theme=dark&show_icons=true&locale=en&layout=compact" alt="devndesk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beinganxh&theme=dark&show_icons=true&locale=en" alt="beinganxh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devndesk&theme=dark&show_icons=true&locale=en" alt="devndesk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beinganxh&theme=dark&" alt="beinganxh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devndesk&theme=dark&" alt="devndesk" /></p>
